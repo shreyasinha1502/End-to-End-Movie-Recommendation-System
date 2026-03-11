@@ -114,10 +114,7 @@ End-to-End-Movie-Recommendation-System/
 
 ---
 
-## 👨‍💻 Author
 
-Shivansh Arora
-GitHub: https://github.com/arora99shivansh
 
 ## ⭐ Conclusion
 
